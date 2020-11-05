@@ -6,11 +6,12 @@
 - I’m currently learning more about description logics. 
 <br />
 <br />
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/brandonnodnarb)
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>(https://github.com/brandonnodnarb)
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 <br />
 <br />
 ![Profile views](https://gpvc.arturio.dev/brandonnodnarb)
+
 <!--
 **brandonnodnarb/brandonnodnarb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
