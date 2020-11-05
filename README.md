@@ -2,8 +2,9 @@
 
 ### my name is brandon
 #### I am an environmental data scientist
-- I’m currently working on ontologies related to soil science. 
-- I’m currently learning more about description logics. 
+- I’m currently working on ontologies related to soil science.
+- I'm also working on a synthesized vocabulary for Earth Science.
+- I’m currently gaining deeper knowledge about description logics. 
 <br />
 <br />
 <a href='https:/github.com/brandonnodnarb'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
