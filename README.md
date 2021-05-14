@@ -1,10 +1,14 @@
 ### sup shnoogins? 👋
 
 ### my name is brandon
+😄 Pronouns: he/him
 #### I am an environmental data scientist
-- I’m currently working on ontologies related to soil science.
-- I'm also working on a synthesized vocabulary for Earth Science.
-- I’m currently gaining deeper knowledge about description logics. 
+- I’m currently working on ontologis related to:
+    -  soil science
+    -  landuse
+    -  land cover
+    -  sedimentary basin analysis
+- I'm also building a synthesized vocabulary for Earth Science.
 <br />
 <br />
 <a href='https:/github.com/brandonnodnarb'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
@@ -25,6 +29,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
