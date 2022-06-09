@@ -3,7 +3,7 @@
 ### my name is brandon
 😄 Pronouns: he/him
 #### I am an environmental data scientist
-- I’m currently working on ontologis related to:
+- I’m currently working on ontologies related to:
     -  soil science
     -  landuse
     -  land cover
