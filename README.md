@@ -4,11 +4,13 @@
 😄 Pronouns: he/him
 #### I am an environmental data scientist
 - I’m currently working on ontologies related to:
-    -  soil science
-    -  landuse
+    -  soil properties, measurement and classification
+    -  land use
     -  land cover
-    -  sedimentary basin analysis
-- I'm also building a synthesized vocabulary for Earth Science.
+    -  land capability
+    <!-- -  sedimentary basin analysis  -->
+- I contribute to the Semantic Web for Earth and Environmental Terminology (<a href='https://sweetonology.net'>SWEET</a>) ontology suite
+- I'm also constructing a massive pool of Earth Science concepts which I hope will make it into SWEET.
 <br />
 <br />
 <a href='https:/github.com/brandonnodnarb'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
