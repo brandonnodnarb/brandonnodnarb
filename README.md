@@ -18,7 +18,7 @@
 <br />
 <br />
 
-![](https://komarev.com/ghpvc/?username=brandonnodnarb&color=pink)
+![](https://komarev.com/ghpvc/?username=brandonnodnarb&color=#23F23C)
 
 <!--
 **brandonnodnarb/brandonnodnarb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
