@@ -13,8 +13,7 @@
 - I'm also constructing a massive pool of Earth Science concepts which I hope will make it into SWEET.
 <br />
 <br />
-![](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)
-<!-- <a href='brandonnodnarb'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a> -->
+<a href=''><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a> -->
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 <br />
 <br />
