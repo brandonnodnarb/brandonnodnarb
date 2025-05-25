@@ -1,7 +1,5 @@
-### sup shnoogins? 👋
+### sup 👋
 
-### my name is brandon
-😄 Pronouns: he/him
 #### I am an environmental data scientist
 - I’m currently working on ontologies related to:
     -  soil properties, measurement and classification
